@@ -1,3 +1,6 @@
 
+This message is typed on GIT command
+
+#these are changes that I am working 
 
 #This is third file that was prepared in order to test github
